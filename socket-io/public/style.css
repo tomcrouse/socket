@@ -1,0 +1,9 @@
+*,
+*::before,
+*::after {
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(35, 168, 185);
+}
